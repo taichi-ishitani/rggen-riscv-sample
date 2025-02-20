@@ -1,0 +1,2 @@
+bus_width: 64
+protocol: riscv_csrbus
